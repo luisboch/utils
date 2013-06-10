@@ -1,0 +1,1 @@
+Projeto destinado a agrupar classes úteis ao desenvolvimento php ( como Validadores de email, cnpj, cpf etc). 
