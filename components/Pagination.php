@@ -1,5 +1,6 @@
 <?php
 
+namespace utils\components;
 /**
  * Description of Pagination
  *

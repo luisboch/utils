@@ -1,5 +1,5 @@
 <?php
-
+namespace utils;
 /**
  *
  * @author luis
